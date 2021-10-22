@@ -1,0 +1,19 @@
+C:\Users\callr\source\repos\Todo list\Todo list\bin\Debug\netcoreapp3.1\Todo list.exe
+C:\Users\callr\source\repos\Todo list\Todo list\bin\Debug\netcoreapp3.1\Todo list.deps.json
+C:\Users\callr\source\repos\Todo list\Todo list\bin\Debug\netcoreapp3.1\Todo list.runtimeconfig.json
+C:\Users\callr\source\repos\Todo list\Todo list\bin\Debug\netcoreapp3.1\Todo list.runtimeconfig.dev.json
+C:\Users\callr\source\repos\Todo list\Todo list\bin\Debug\netcoreapp3.1\Todo list.dll
+C:\Users\callr\source\repos\Todo list\Todo list\bin\Debug\netcoreapp3.1\Todo list.pdb
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\Todo list.csproj.AssemblyReference.cache
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\Todo list_MarkupCompile.cache
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\Todo list_MarkupCompile.lref
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\Todo list.g.resources
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\Todo list.AssemblyInfoInputs.cache
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\Todo list.AssemblyInfo.cs
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\Todo list.csproj.CoreCompileInputs.cache
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\Todo list.dll
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\Todo list.pdb
+C:\Users\callr\source\repos\Todo list\Todo list\obj\Debug\netcoreapp3.1\Todo list.genruntimeconfig.cache
